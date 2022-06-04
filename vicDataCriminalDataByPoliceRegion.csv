@@ -1,0 +1,867 @@
+year,pr,incidents
+2021,"1 North West Metro",5418
+2021,"1 North West Metro",12682
+2021,"1 North West Metro",9563
+2021,"1 North West Metro",4567
+2021,"1 North West Metro",12588
+2021,"1 North West Metro",7001
+2021,"1 North West Metro",24648
+2021,"1 North West Metro",8987
+2021,"1 North West Metro",6083
+2021,"1 North West Metro",9337
+2021,"1 North West Metro",1377
+2021,"1 North West Metro",9384
+2021,"1 North West Metro",12168
+2021,"1 North West Metro",9273
+2021,"1 North West Metro",133076
+2021,"2 Eastern",386
+2021,"2 Eastern",2149
+2021,"2 Eastern",3109
+2021,"2 Eastern",1003
+2021,"2 Eastern",5540
+2021,"2 Eastern",3606
+2021,"2 Eastern",5915
+2021,"2 Eastern",408
+2021,"2 Eastern",7081
+2021,"2 Eastern",7999
+2021,"2 Eastern",3000
+2021,"2 Eastern",365
+2021,"2 Eastern",5319
+2021,"2 Eastern",2492
+2021,"2 Eastern",1682
+2021,"2 Eastern",8552
+2021,"2 Eastern",558
+2021,"2 Eastern",1187
+2021,"2 Eastern",463
+2021,"2 Eastern",161
+2021,"2 Eastern",1681
+2021,"2 Eastern",2954
+2021,"2 Eastern",5696
+2021,"2 Eastern",2474
+2021,"2 Eastern",5144
+2021,"2 Eastern",78924
+2021,"3 Southern Metro",3347
+2021,"3 Southern Metro",4787
+2021,"3 Southern Metro",14294
+2021,"3 Southern Metro",8358
+2021,"3 Southern Metro",5274
+2021,"3 Southern Metro",11671
+2021,"3 Southern Metro",6778
+2021,"3 Southern Metro",6445
+2021,"3 Southern Metro",9461
+2021,"3 Southern Metro",8073
+2021,"3 Southern Metro",78488
+2021,"4 Western",1012
+2021,"4 Western",7554
+2021,"4 Western",195
+2021,"4 Western",2451
+2021,"4 Western",799
+2021,"4 Western",1184
+2021,"4 Western",599
+2021,"4 Western",553
+2021,"4 Western",1207
+2021,"4 Western",442
+2021,"4 Western",7734
+2021,"4 Western",14767
+2021,"4 Western",439
+2021,"4 Western",312
+2021,"4 Western",1566
+2021,"4 Western",409
+2021,"4 Western",1478
+2021,"4 Western",4751
+2021,"4 Western",1617
+2021,"4 Western",732
+2021,"4 Western",531
+2021,"4 Western",837
+2021,"4 Western",329
+2021,"4 Western",74
+2021,"4 Western",758
+2021,"4 Western",1079
+2021,"4 Western",1740
+2021,"4 Western",2272
+2021,"4 Western",163
+2021,"4 Western",287
+2021,"4 Western",57871
+2021,"Justice Institutions and Immigration Facilities",967
+2021,"Justice Institutions and Immigration Facilities",967
+2021,"Unincorporated Vic",66
+2021,"Unincorporated Vic",66
+2020,"1 North West Metro",6707
+2020,"1 North West Metro",15369
+2020,"1 North West Metro",12022
+2020,"1 North West Metro",4489
+2020,"1 North West Metro",16154
+2020,"1 North West Metro",7330
+2020,"1 North West Metro",26802
+2020,"1 North West Metro",10098
+2020,"1 North West Metro",6451
+2020,"1 North West Metro",10800
+2020,"1 North West Metro",1629
+2020,"1 North West Metro",12137
+2020,"1 North West Metro",13221
+2020,"1 North West Metro",11371
+2020,"1 North West Metro",154580
+2020,"2 Eastern",413
+2020,"2 Eastern",2044
+2020,"2 Eastern",3683
+2020,"2 Eastern",991
+2020,"2 Eastern",6243
+2020,"2 Eastern",3673
+2020,"2 Eastern",6019
+2020,"2 Eastern",444
+2020,"2 Eastern",8740
+2020,"2 Eastern",9621
+2020,"2 Eastern",3433
+2020,"2 Eastern",372
+2020,"2 Eastern",5755
+2020,"2 Eastern",3216
+2020,"2 Eastern",1597
+2020,"2 Eastern",9900
+2020,"2 Eastern",654
+2020,"2 Eastern",1255
+2020,"2 Eastern",480
+2020,"2 Eastern",157
+2020,"2 Eastern",1648
+2020,"2 Eastern",3321
+2020,"2 Eastern",7216
+2020,"2 Eastern",2579
+2020,"2 Eastern",6346
+2020,"2 Eastern",89800
+2020,"3 Southern Metro",4123
+2020,"3 Southern Metro",5829
+2020,"3 Southern Metro",17257
+2020,"3 Southern Metro",10809
+2020,"3 Southern Metro",6267
+2020,"3 Southern Metro",14985
+2020,"3 Southern Metro",8613
+2020,"3 Southern Metro",8114
+2020,"3 Southern Metro",10296
+2020,"3 Southern Metro",9058
+2020,"3 Southern Metro",95351
+2020,"4 Western",1092
+2020,"4 Western",7346
+2020,"4 Western",285
+2020,"4 Western",2497
+2020,"4 Western",808
+2020,"4 Western",1360
+2020,"4 Western",649
+2020,"4 Western",680
+2020,"4 Western",1080
+2020,"4 Western",447
+2020,"4 Western",8098
+2020,"4 Western",16564
+2020,"4 Western",562
+2020,"4 Western",311
+2020,"4 Western",1479
+2020,"4 Western",391
+2020,"4 Western",1916
+2020,"4 Western",4655
+2020,"4 Western",2048
+2020,"4 Western",762
+2020,"4 Western",533
+2020,"4 Western",834
+2020,"4 Western",371
+2020,"4 Western",100
+2020,"4 Western",829
+2020,"4 Western",1197
+2020,"4 Western",1819
+2020,"4 Western",2319
+2020,"4 Western",131
+2020,"4 Western",361
+2020,"4 Western",61524
+2020,"Justice Institutions and Immigration Facilities",1328
+2020,"Justice Institutions and Immigration Facilities",1328
+2020,"Unincorporated Vic",37
+2020,"Unincorporated Vic",37
+2019,"1 North West Metro",7045
+2019,"1 North West Metro",15149
+2019,"1 North West Metro",11416
+2019,"1 North West Metro",5000
+2019,"1 North West Metro",15878
+2019,"1 North West Metro",6905
+2019,"1 North West Metro",26965
+2019,"1 North West Metro",9077
+2019,"1 North West Metro",6476
+2019,"1 North West Metro",10843
+2019,"1 North West Metro",1655
+2019,"1 North West Metro",12071
+2019,"1 North West Metro",13216
+2019,"1 North West Metro",11073
+2019,"1 North West Metro",152769
+2019,"2 Eastern",426
+2019,"2 Eastern",1836
+2019,"2 Eastern",3606
+2019,"2 Eastern",961
+2019,"2 Eastern",6177
+2019,"2 Eastern",3645
+2019,"2 Eastern",6345
+2019,"2 Eastern",433
+2019,"2 Eastern",8789
+2019,"2 Eastern",10101
+2019,"2 Eastern",3823
+2019,"2 Eastern",315
+2019,"2 Eastern",5996
+2019,"2 Eastern",3141
+2019,"2 Eastern",1939
+2019,"2 Eastern",9071
+2019,"2 Eastern",603
+2019,"2 Eastern",1312
+2019,"2 Eastern",447
+2019,"2 Eastern",149
+2019,"2 Eastern",1763
+2019,"2 Eastern",3274
+2019,"2 Eastern",7271
+2019,"2 Eastern",2793
+2019,"2 Eastern",6162
+2019,"2 Eastern",90378
+2019,"3 Southern Metro",4016
+2019,"3 Southern Metro",5257
+2019,"3 Southern Metro",16638
+2019,"3 Southern Metro",11035
+2019,"3 Southern Metro",5699
+2019,"3 Southern Metro",14690
+2019,"3 Southern Metro",8917
+2019,"3 Southern Metro",8658
+2019,"3 Southern Metro",9802
+2019,"3 Southern Metro",9055
+2019,"3 Southern Metro",93767
+2019,"4 Western",853
+2019,"4 Western",8928
+2019,"4 Western",241
+2019,"4 Western",2918
+2019,"4 Western",892
+2019,"4 Western",1286
+2019,"4 Western",523
+2019,"4 Western",630
+2019,"4 Western",1080
+2019,"4 Western",485
+2019,"4 Western",8438
+2019,"4 Western",16491
+2019,"4 Western",724
+2019,"4 Western",229
+2019,"4 Western",1320
+2019,"4 Western",373
+2019,"4 Western",1744
+2019,"4 Western",5551
+2019,"4 Western",1597
+2019,"4 Western",911
+2019,"4 Western",505
+2019,"4 Western",764
+2019,"4 Western",411
+2019,"4 Western",105
+2019,"4 Western",945
+2019,"4 Western",1003
+2019,"4 Western",1872
+2019,"4 Western",2604
+2019,"4 Western",130
+2019,"4 Western",298
+2019,"4 Western",63851
+2019,"Justice Institutions and Immigration Facilities",1356
+2019,"Justice Institutions and Immigration Facilities",1356
+2019,"Unincorporated Vic",107
+2019,"Unincorporated Vic",107
+2018,"1 North West Metro",7165
+2018,"1 North West Metro",14572
+2018,"1 North West Metro",11604
+2018,"1 North West Metro",4813
+2018,"1 North West Metro",15543
+2018,"1 North West Metro",6937
+2018,"1 North West Metro",26890
+2018,"1 North West Metro",8049
+2018,"1 North West Metro",6683
+2018,"1 North West Metro",11611
+2018,"1 North West Metro",1644
+2018,"1 North West Metro",11778
+2018,"1 North West Metro",11291
+2018,"1 North West Metro",11312
+2018,"1 North West Metro",149892
+2018,"2 Eastern",393
+2018,"2 Eastern",1660
+2018,"2 Eastern",3165
+2018,"2 Eastern",874
+2018,"2 Eastern",5603
+2018,"2 Eastern",3170
+2018,"2 Eastern",6196
+2018,"2 Eastern",342
+2018,"2 Eastern",8072
+2018,"2 Eastern",9907
+2018,"2 Eastern",3347
+2018,"2 Eastern",333
+2018,"2 Eastern",5912
+2018,"2 Eastern",2998
+2018,"2 Eastern",1566
+2018,"2 Eastern",8230
+2018,"2 Eastern",571
+2018,"2 Eastern",1023
+2018,"2 Eastern",440
+2018,"2 Eastern",178
+2018,"2 Eastern",1740
+2018,"2 Eastern",2824
+2018,"2 Eastern",6251
+2018,"2 Eastern",2384
+2018,"2 Eastern",5540
+2018,"2 Eastern",82719
+2018,"3 Southern Metro",3697
+2018,"3 Southern Metro",4570
+2018,"3 Southern Metro",15893
+2018,"3 Southern Metro",11296
+2018,"3 Southern Metro",4974
+2018,"3 Southern Metro",14076
+2018,"3 Southern Metro",8532
+2018,"3 Southern Metro",8137
+2018,"3 Southern Metro",9957
+2018,"3 Southern Metro",8338
+2018,"3 Southern Metro",89470
+2018,"4 Western",901
+2018,"4 Western",8055
+2018,"4 Western",182
+2018,"4 Western",2841
+2018,"4 Western",970
+2018,"4 Western",1269
+2018,"4 Western",539
+2018,"4 Western",519
+2018,"4 Western",1030
+2018,"4 Western",509
+2018,"4 Western",7733
+2018,"4 Western",16009
+2018,"4 Western",602
+2018,"4 Western",254
+2018,"4 Western",1575
+2018,"4 Western",390
+2018,"4 Western",1660
+2018,"4 Western",5547
+2018,"4 Western",1764
+2018,"4 Western",691
+2018,"4 Western",428
+2018,"4 Western",764
+2018,"4 Western",340
+2018,"4 Western",101
+2018,"4 Western",1111
+2018,"4 Western",878
+2018,"4 Western",1781
+2018,"4 Western",2907
+2018,"4 Western",128
+2018,"4 Western",335
+2018,"4 Western",61813
+2018,"Justice Institutions and Immigration Facilities",1497
+2018,"Justice Institutions and Immigration Facilities",1497
+2018,"Unincorporated Vic",95
+2018,"Unincorporated Vic",95
+2017,"1 North West Metro",7433
+2017,"1 North West Metro",13246
+2017,"1 North West Metro",11445
+2017,"1 North West Metro",4908
+2017,"1 North West Metro",15048
+2017,"1 North West Metro",6465
+2017,"1 North West Metro",26515
+2017,"1 North West Metro",8048
+2017,"1 North West Metro",6668
+2017,"1 North West Metro",10520
+2017,"1 North West Metro",1845
+2017,"1 North West Metro",11343
+2017,"1 North West Metro",10855
+2017,"1 North West Metro",10561
+2017,"1 North West Metro",144900
+2017,"2 Eastern",310
+2017,"2 Eastern",1936
+2017,"2 Eastern",2766
+2017,"2 Eastern",975
+2017,"2 Eastern",5741
+2017,"2 Eastern",2972
+2017,"2 Eastern",5940
+2017,"2 Eastern",376
+2017,"2 Eastern",8432
+2017,"2 Eastern",9282
+2017,"2 Eastern",3699
+2017,"2 Eastern",494
+2017,"2 Eastern",6300
+2017,"2 Eastern",3059
+2017,"2 Eastern",1450
+2017,"2 Eastern",8175
+2017,"2 Eastern",546
+2017,"2 Eastern",1004
+2017,"2 Eastern",438
+2017,"2 Eastern",174
+2017,"2 Eastern",1780
+2017,"2 Eastern",2722
+2017,"2 Eastern",6513
+2017,"2 Eastern",2423
+2017,"2 Eastern",5720
+2017,"2 Eastern",83227
+2017,"3 Southern Metro",3831
+2017,"3 Southern Metro",4350
+2017,"3 Southern Metro",15066
+2017,"3 Southern Metro",10703
+2017,"3 Southern Metro",5348
+2017,"3 Southern Metro",13669
+2017,"3 Southern Metro",7696
+2017,"3 Southern Metro",8463
+2017,"3 Southern Metro",9689
+2017,"3 Southern Metro",7895
+2017,"3 Southern Metro",86710
+2017,"4 Western",912
+2017,"4 Western",8958
+2017,"4 Western",158
+2017,"4 Western",2505
+2017,"4 Western",859
+2017,"4 Western",1381
+2017,"4 Western",708
+2017,"4 Western",444
+2017,"4 Western",1243
+2017,"4 Western",499
+2017,"4 Western",7200
+2017,"4 Western",17116
+2017,"4 Western",660
+2017,"4 Western",278
+2017,"4 Western",1575
+2017,"4 Western",295
+2017,"4 Western",1598
+2017,"4 Western",4804
+2017,"4 Western",1737
+2017,"4 Western",767
+2017,"4 Western",465
+2017,"4 Western",842
+2017,"4 Western",357
+2017,"4 Western",126
+2017,"4 Western",984
+2017,"4 Western",996
+2017,"4 Western",1773
+2017,"4 Western",2650
+2017,"4 Western",126
+2017,"4 Western",355
+2017,"4 Western",62371
+2017,"Justice Institutions and Immigration Facilities",1476
+2017,"Justice Institutions and Immigration Facilities",1476
+2017,"Unincorporated Vic",119
+2017,"Unincorporated Vic",119
+2016,"1 North West Metro",7482
+2016,"1 North West Metro",15097
+2016,"1 North West Metro",13227
+2016,"1 North West Metro",5336
+2016,"1 North West Metro",17662
+2016,"1 North West Metro",7190
+2016,"1 North West Metro",28252
+2016,"1 North West Metro",9066
+2016,"1 North West Metro",7741
+2016,"1 North West Metro",12120
+2016,"1 North West Metro",2264
+2016,"1 North West Metro",13078
+2016,"1 North West Metro",12370
+2016,"1 North West Metro",11293
+2016,"1 North West Metro",162178
+2016,"2 Eastern",267
+2016,"2 Eastern",2070
+2016,"2 Eastern",2921
+2016,"2 Eastern",1019
+2016,"2 Eastern",7061
+2016,"2 Eastern",3096
+2016,"2 Eastern",6329
+2016,"2 Eastern",319
+2016,"2 Eastern",9167
+2016,"2 Eastern",10450
+2016,"2 Eastern",3961
+2016,"2 Eastern",481
+2016,"2 Eastern",6768
+2016,"2 Eastern",3227
+2016,"2 Eastern",1368
+2016,"2 Eastern",8962
+2016,"2 Eastern",546
+2016,"2 Eastern",1139
+2016,"2 Eastern",479
+2016,"2 Eastern",176
+2016,"2 Eastern",1811
+2016,"2 Eastern",3318
+2016,"2 Eastern",6354
+2016,"2 Eastern",2496
+2016,"2 Eastern",6453
+2016,"2 Eastern",90238
+2016,"3 Southern Metro",4207
+2016,"3 Southern Metro",5383
+2016,"3 Southern Metro",18198
+2016,"3 Southern Metro",12484
+2016,"3 Southern Metro",5675
+2016,"3 Southern Metro",15473
+2016,"3 Southern Metro",8656
+2016,"3 Southern Metro",9116
+2016,"3 Southern Metro",10485
+2016,"3 Southern Metro",9177
+2016,"3 Southern Metro",98854
+2016,"4 Western",867
+2016,"4 Western",9475
+2016,"4 Western",169
+2016,"4 Western",2815
+2016,"4 Western",1012
+2016,"4 Western",1445
+2016,"4 Western",733
+2016,"4 Western",491
+2016,"4 Western",1374
+2016,"4 Western",646
+2016,"4 Western",7933
+2016,"4 Western",18627
+2016,"4 Western",729
+2016,"4 Western",235
+2016,"4 Western",1880
+2016,"4 Western",382
+2016,"4 Western",1646
+2016,"4 Western",5091
+2016,"4 Western",2005
+2016,"4 Western",951
+2016,"4 Western",491
+2016,"4 Western",936
+2016,"4 Western",391
+2016,"4 Western",124
+2016,"4 Western",987
+2016,"4 Western",1093
+2016,"4 Western",1735
+2016,"4 Western",2492
+2016,"4 Western",108
+2016,"4 Western",330
+2016,"4 Western",67193
+2016,"Justice Institutions and Immigration Facilities",1016
+2016,"Justice Institutions and Immigration Facilities",1016
+2016,"Unincorporated Vic",121
+2016,"Unincorporated Vic",121
+2015,"1 North West Metro",6857
+2015,"1 North West Metro",14821
+2015,"1 North West Metro",11473
+2015,"1 North West Metro",5358
+2015,"1 North West Metro",14882
+2015,"1 North West Metro",6909
+2015,"1 North West Metro",24847
+2015,"1 North West Metro",8376
+2015,"1 North West Metro",6957
+2015,"1 North West Metro",11165
+2015,"1 North West Metro",1941
+2015,"1 North West Metro",10378
+2015,"1 North West Metro",11322
+2015,"1 North West Metro",10051
+2015,"1 North West Metro",145337
+2015,"2 Eastern",357
+2015,"2 Eastern",1929
+2015,"2 Eastern",2490
+2015,"2 Eastern",810
+2015,"2 Eastern",5897
+2015,"2 Eastern",3147
+2015,"2 Eastern",5498
+2015,"2 Eastern",380
+2015,"2 Eastern",7352
+2015,"2 Eastern",9017
+2015,"2 Eastern",3354
+2015,"2 Eastern",339
+2015,"2 Eastern",5791
+2015,"2 Eastern",2656
+2015,"2 Eastern",1104
+2015,"2 Eastern",7525
+2015,"2 Eastern",509
+2015,"2 Eastern",907
+2015,"2 Eastern",359
+2015,"2 Eastern",167
+2015,"2 Eastern",1629
+2015,"2 Eastern",2965
+2015,"2 Eastern",5781
+2015,"2 Eastern",2617
+2015,"2 Eastern",5442
+2015,"2 Eastern",78022
+2015,"3 Southern Metro",3642
+2015,"3 Southern Metro",4677
+2015,"3 Southern Metro",15156
+2015,"3 Southern Metro",10922
+2015,"3 Southern Metro",5141
+2015,"3 Southern Metro",13513
+2015,"3 Southern Metro",8065
+2015,"3 Southern Metro",8134
+2015,"3 Southern Metro",9808
+2015,"3 Southern Metro",7776
+2015,"3 Southern Metro",86834
+2015,"4 Western",910
+2015,"4 Western",8730
+2015,"4 Western",178
+2015,"4 Western",2332
+2015,"4 Western",846
+2015,"4 Western",1193
+2015,"4 Western",506
+2015,"4 Western",456
+2015,"4 Western",1227
+2015,"4 Western",543
+2015,"4 Western",6348
+2015,"4 Western",15450
+2015,"4 Western",584
+2015,"4 Western",162
+2015,"4 Western",1973
+2015,"4 Western",313
+2015,"4 Western",1518
+2015,"4 Western",4681
+2015,"4 Western",1602
+2015,"4 Western",720
+2015,"4 Western",407
+2015,"4 Western",811
+2015,"4 Western",355
+2015,"4 Western",154
+2015,"4 Western",799
+2015,"4 Western",1160
+2015,"4 Western",1615
+2015,"4 Western",2157
+2015,"4 Western",103
+2015,"4 Western",315
+2015,"4 Western",58148
+2015,"Justice Institutions and Immigration Facilities",777
+2015,"Justice Institutions and Immigration Facilities",777
+2015,"Unincorporated Vic",93
+2015,"Unincorporated Vic",93
+2014,"1 North West Metro",6806
+2014,"1 North West Metro",13725
+2014,"1 North West Metro",10975
+2014,"1 North West Metro",5557
+2014,"1 North West Metro",13223
+2014,"1 North West Metro",6576
+2014,"1 North West Metro",23724
+2014,"1 North West Metro",7529
+2014,"1 North West Metro",6445
+2014,"1 North West Metro",10295
+2014,"1 North West Metro",1586
+2014,"1 North West Metro",10240
+2014,"1 North West Metro",10157
+2014,"1 North West Metro",9958
+2014,"1 North West Metro",136796
+2014,"2 Eastern",278
+2014,"2 Eastern",1996
+2014,"2 Eastern",2278
+2014,"2 Eastern",819
+2014,"2 Eastern",5686
+2014,"2 Eastern",2921
+2014,"2 Eastern",5629
+2014,"2 Eastern",329
+2014,"2 Eastern",7160
+2014,"2 Eastern",7815
+2014,"2 Eastern",3130
+2014,"2 Eastern",388
+2014,"2 Eastern",5871
+2014,"2 Eastern",2145
+2014,"2 Eastern",1083
+2014,"2 Eastern",6885
+2014,"2 Eastern",517
+2014,"2 Eastern",901
+2014,"2 Eastern",340
+2014,"2 Eastern",148
+2014,"2 Eastern",1689
+2014,"2 Eastern",2900
+2014,"2 Eastern",5700
+2014,"2 Eastern",2431
+2014,"2 Eastern",5353
+2014,"2 Eastern",74392
+2014,"3 Southern Metro",3231
+2014,"3 Southern Metro",3862
+2014,"3 Southern Metro",12926
+2014,"3 Southern Metro",10624
+2014,"3 Southern Metro",4332
+2014,"3 Southern Metro",12059
+2014,"3 Southern Metro",7171
+2014,"3 Southern Metro",7681
+2014,"3 Southern Metro",9079
+2014,"3 Southern Metro",7159
+2014,"3 Southern Metro",78124
+2014,"4 Western",797
+2014,"4 Western",7533
+2014,"4 Western",180
+2014,"4 Western",2330
+2014,"4 Western",805
+2014,"4 Western",1099
+2014,"4 Western",474
+2014,"4 Western",427
+2014,"4 Western",1400
+2014,"4 Western",467
+2014,"4 Western",6182
+2014,"4 Western",15071
+2014,"4 Western",494
+2014,"4 Western",147
+2014,"4 Western",1577
+2014,"4 Western",237
+2014,"4 Western",1475
+2014,"4 Western",4658
+2014,"4 Western",1455
+2014,"4 Western",671
+2014,"4 Western",470
+2014,"4 Western",697
+2014,"4 Western",346
+2014,"4 Western",102
+2014,"4 Western",706
+2014,"4 Western",982
+2014,"4 Western",1629
+2014,"4 Western",1986
+2014,"4 Western",99
+2014,"4 Western",189
+2014,"4 Western",54685
+2014,"Justice Institutions and Immigration Facilities",719
+2014,"Justice Institutions and Immigration Facilities",719
+2014,"Unincorporated Vic",100
+2014,"Unincorporated Vic",100
+2013,"1 North West Metro",6430
+2013,"1 North West Metro",15273
+2013,"1 North West Metro",10016
+2013,"1 North West Metro",5446
+2013,"1 North West Metro",12030
+2013,"1 North West Metro",6956
+2013,"1 North West Metro",24624
+2013,"1 North West Metro",6827
+2013,"1 North West Metro",6248
+2013,"1 North West Metro",9243
+2013,"1 North West Metro",1600
+2013,"1 North West Metro",9988
+2013,"1 North West Metro",9941
+2013,"1 North West Metro",9203
+2013,"1 North West Metro",133825
+2013,"2 Eastern",363
+2013,"2 Eastern",1970
+2013,"2 Eastern",2215
+2013,"2 Eastern",854
+2013,"2 Eastern",5965
+2013,"2 Eastern",3071
+2013,"2 Eastern",5116
+2013,"2 Eastern",355
+2013,"2 Eastern",6922
+2013,"2 Eastern",7618
+2013,"2 Eastern",3112
+2013,"2 Eastern",293
+2013,"2 Eastern",5497
+2013,"2 Eastern",1991
+2013,"2 Eastern",1177
+2013,"2 Eastern",6821
+2013,"2 Eastern",535
+2013,"2 Eastern",895
+2013,"2 Eastern",373
+2013,"2 Eastern",213
+2013,"2 Eastern",1679
+2013,"2 Eastern",2798
+2013,"2 Eastern",5801
+2013,"2 Eastern",2235
+2013,"2 Eastern",5053
+2013,"2 Eastern",72922
+2013,"3 Southern Metro",3488
+2013,"3 Southern Metro",4344
+2013,"3 Southern Metro",12056
+2013,"3 Southern Metro",10781
+2013,"3 Southern Metro",4740
+2013,"3 Southern Metro",12484
+2013,"3 Southern Metro",7329
+2013,"3 Southern Metro",7517
+2013,"3 Southern Metro",8779
+2013,"3 Southern Metro",7444
+2013,"3 Southern Metro",78962
+2013,"4 Western",874
+2013,"4 Western",8108
+2013,"4 Western",187
+2013,"4 Western",2100
+2013,"4 Western",811
+2013,"4 Western",1021
+2013,"4 Western",456
+2013,"4 Western",413
+2013,"4 Western",1184
+2013,"4 Western",402
+2013,"4 Western",6053
+2013,"4 Western",13553
+2013,"4 Western",524
+2013,"4 Western",184
+2013,"4 Western",1347
+2013,"4 Western",264
+2013,"4 Western",1389
+2013,"4 Western",4535
+2013,"4 Western",1502
+2013,"4 Western",624
+2013,"4 Western",435
+2013,"4 Western",683
+2013,"4 Western",316
+2013,"4 Western",73
+2013,"4 Western",883
+2013,"4 Western",983
+2013,"4 Western",1437
+2013,"4 Western",1910
+2013,"4 Western",121
+2013,"4 Western",215
+2013,"4 Western",52587
+2013,"Justice Institutions and Immigration Facilities",1041
+2013,"Justice Institutions and Immigration Facilities",1041
+2013,"Unincorporated Vic",66
+2013,"Unincorporated Vic",66
+2012,"1 North West Metro",5814
+2012,"1 North West Metro",15481
+2012,"1 North West Metro",9672
+2012,"1 North West Metro",5850
+2012,"1 North West Metro",11987
+2012,"1 North West Metro",7474
+2012,"1 North West Metro",24747
+2012,"1 North West Metro",6926
+2012,"1 North West Metro",6962
+2012,"1 North West Metro",9812
+2012,"1 North West Metro",1454
+2012,"1 North West Metro",9849
+2012,"1 North West Metro",11065
+2012,"1 North West Metro",9199
+2012,"1 North West Metro",136292
+2012,"2 Eastern",318
+2012,"2 Eastern",1848
+2012,"2 Eastern",2133
+2012,"2 Eastern",728
+2012,"2 Eastern",5918
+2012,"2 Eastern",2667
+2012,"2 Eastern",4824
+2012,"2 Eastern",383
+2012,"2 Eastern",6852
+2012,"2 Eastern",7456
+2012,"2 Eastern",2924
+2012,"2 Eastern",254
+2012,"2 Eastern",5219
+2012,"2 Eastern",1961
+2012,"2 Eastern",1058
+2012,"2 Eastern",6526
+2012,"2 Eastern",457
+2012,"2 Eastern",935
+2012,"2 Eastern",379
+2012,"2 Eastern",196
+2012,"2 Eastern",1737
+2012,"2 Eastern",2862
+2012,"2 Eastern",5583
+2012,"2 Eastern",2603
+2012,"2 Eastern",5216
+2012,"2 Eastern",71037
+2012,"3 Southern Metro",3504
+2012,"3 Southern Metro",3819
+2012,"3 Southern Metro",11798
+2012,"3 Southern Metro",10534
+2012,"3 Southern Metro",4619
+2012,"3 Southern Metro",11781
+2012,"3 Southern Metro",7481
+2012,"3 Southern Metro",7355
+2012,"3 Southern Metro",8837
+2012,"3 Southern Metro",7291
+2012,"3 Southern Metro",77019
+2012,"4 Western",934
+2012,"4 Western",8179
+2012,"4 Western",236
+2012,"4 Western",2233
+2012,"4 Western",771
+2012,"4 Western",1183
+2012,"4 Western",543
+2012,"4 Western",423
+2012,"4 Western",1093
+2012,"4 Western",376
+2012,"4 Western",5647
+2012,"4 Western",13449
+2012,"4 Western",555
+2012,"4 Western",199
+2012,"4 Western",1416
+2012,"4 Western",333
+2012,"4 Western",1319
+2012,"4 Western",4595
+2012,"4 Western",1352
+2012,"4 Western",634
+2012,"4 Western",537
+2012,"4 Western",654
+2012,"4 Western",248
+2012,"4 Western",111
+2012,"4 Western",800
+2012,"4 Western",1175
+2012,"4 Western",1381
+2012,"4 Western",1827
+2012,"4 Western",133
+2012,"4 Western",274
+2012,"4 Western",52610
